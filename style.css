@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    padding-top: 25px;
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 50%;
+}
+.titre {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 30px;
+    height: 200px;
+    width: 300px;
+   
+}
