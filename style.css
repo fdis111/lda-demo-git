@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(245, 245, 253);
+    text-align: center;
+    text-decoration: double;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3em;
+    background-color: rgb(21, 1, 131);
+}
+
+h3 {
+    color: rgb(219, 75, 8);
+}
